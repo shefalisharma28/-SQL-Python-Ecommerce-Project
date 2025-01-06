@@ -1,0 +1,29 @@
+Project Title: E-commerce Sales Analysis and Insights
+
+Description:
+
+Developed a comprehensive analytics system for an e-commerce dataset using Python and SQL, enabling data-driven business decisions.
+Analyzed over 100,000 records of orders, payments, customers, and products to identify sales trends, customer behavior, and seller performance.
+Key Contributions:
+
+Data Processing:
+
+Cleaned and transformed raw CSV files into a relational database structure using Python (Pandas) and SQL.
+Designed and optimized SQL queries for efficient data extraction and aggregation.
+Sales and Revenue Insights:
+
+Calculated monthly revenue trends, cumulative sales, and average product sales using advanced SQL window functions.
+Implemented Python visualizations (Matplotlib, Seaborn) for time-series trends, product category sales, and geographical insights.
+Customer Behavior Analysis:
+
+Identified high-value customer segments and top-performing cities by grouping and filtering data.
+Calculated the average number of products per order per city using SQL subqueries and joins.
+Seller Performance Evaluation:
+
+Ranked sellers based on revenue contribution using SQL ranking functions (RANK() and DENSE_RANK()).
+Provided actionable insights to improve underperforming seller metrics.
+Technical Tools:
+
+Languages: Python (Pandas, Matplotlib, Seaborn), SQL.
+Database: MySQL.
+Visualization: Created interactive dashboards using Python libraries.
